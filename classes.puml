@@ -22,6 +22,10 @@ class AlertaAbsoluto {
   constructor(desc, hor)
 }
 
+class ClassFim {
+  - int cont
+}
+
 Alerta <|-- AlertaRelativo
 Alerta <|-- AlertaAbsoluto
 
