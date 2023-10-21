@@ -2,6 +2,10 @@
 
 top to bottom direction
 
+class NovaClasse {
+  - foo bar
+}
+
 class Alerta <<abstract>> {
   - number timerHandler
   + Date horario
